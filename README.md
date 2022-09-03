@@ -1,4 +1,4 @@
-# AQUABOT-MD
+# ❤NIPUNA_BOT❤
 This project is still being tested
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://i.ibb.co/Dz60qHW/123.jpg"/></a>
  <p align="center">
@@ -22,12 +22,4 @@ This project is still being tested
 
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
-
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-- [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
- 
-  
- 
+ ###  Developer :- ❤NIPUNA RANGANA❤
